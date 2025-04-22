@@ -65,7 +65,7 @@ LIBS_ADDITIONAL: Final = [
     (
         "ESP32 BLE Keyboard",
         None,
-        "../../ESP32-BLE-Keyboard"
+        "../ESP32-BLE-Keyboard"
     ),
 ]
 
