@@ -59,13 +59,13 @@ LIBS_DEFAULT: Final = [
 LIBS_ADDITIONAL: Final = [
     (
         "h2zero/NimBLE-Arduino",
-        "1.4.3",
+        "2.2.3",
         None,
     ),
     (
-        "t-vk/ESP32 BLE Keyboard",
-        "0.3.2",
+        "ESP32 BLE Keyboard",
         None,
+        "../../ESP32-BLE-Keyboard"
     ),
 ]
 

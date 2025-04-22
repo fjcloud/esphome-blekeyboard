@@ -1,0 +1,3 @@
+[submodule "ESP32-BLE-Keyboard"]
+	path = ESP32-BLE-Keyboard
+	url = git@github.com:fjcloud/ESP32-BLE-Keyboard.git
