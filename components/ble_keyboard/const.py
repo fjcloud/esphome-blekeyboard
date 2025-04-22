@@ -62,11 +62,6 @@ LIBS_ADDITIONAL: Final = [
         "2.2.3",
         None,
     ),
-    (
-        "ESP32 BLE Keyboard",
-        None,
-        "../ESP32-BLE-Keyboard"
-    ),
 ]
 
 BUILD_FLAGS: Final = "-D USE_NIMBLE"
